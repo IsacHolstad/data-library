@@ -15,4 +15,13 @@ const cars = [
         new: false,
         year: 2018,
     },
+    {
+        id: 3,
+        name: "Tesla",
+        wheelDrive: "Awd",
+        color: "silver",
+        new: false,
+        year: 2019,
+    },
+
 ]
